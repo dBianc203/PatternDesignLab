@@ -5,7 +5,7 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class DuelExitPipe extends Exhaust
+public class DualExitPipe extends Exhaust
 {
     @Override
     public float price() {
@@ -13,6 +13,6 @@ public class DuelExitPipe extends Exhaust
     }
     @Override 
     public String name() {
-       return "Duel Exit Exhaust"; 
+       return "Dual Exit Exhaust"; 
     }
 }
