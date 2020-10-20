@@ -11,7 +11,7 @@ public class CarBuilder
     {
      Car car = new Car();
      car.addPart(new Winter());
-     car.addPart(new DuelExitPipe());
+     car.addPart(new DualExitPipe());
      return car;
     }
     
